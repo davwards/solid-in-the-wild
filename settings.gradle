@@ -1,0 +1,6 @@
+include 'asset-lookup'
+include 'account-lookup'
+include 'order-precheck'
+include 'market-submission'
+
+rootProject.name = 'solid-in-the-wild'
